@@ -3,6 +3,7 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1 style="text-align: center;">
+
         <strong>Superior Group of Colleges</strong>        
         | Learning Management System (LMS)
       </h1>
@@ -14,6 +15,7 @@
 
     <!-- Main content -->
     <section class="content container-fluid">
+
       <div class="row">
         <div class="col-md-12">
           <div class="box box-solid">
@@ -64,6 +66,13 @@
           <!-- /.box -->
         </div>
       </div>
+
+
+      <!--------------------------
+        | Your Page Content Here |
+        -------------------------->
+
+
     </section>
     <!-- /.content -->
   </div>
